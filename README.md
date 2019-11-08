@@ -14,21 +14,7 @@ add `gem "better_error_message_gem", :path => "../better_error_msg_gem/"` to you
 
 run `./compile.sh`, then the gem can be used in your own app
 
-TODO
--------
-validates_associate
 
-validate confirmation
-
-validate uniqueness
-
-validate format
-
-Finished
---------
-validates_inclusion_of
-
-validates_exclusion_of
 
 
 Usage
@@ -44,8 +30,3 @@ should be
 
 inputs is not included in the list, you should choose from [.com, .cn]
 
-
-CREDITS
--------
-
-This plugin was originally written by Junwen Yang(x1022069@gmail.com)
